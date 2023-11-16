@@ -1,0 +1,15 @@
+C:\Users\Carlos-PC\Desktop\UNAD-1604-2023\PROGRAMACION\etapa4\213023_200_Etapa4_CarlosSoriano\OrdenamientoDeNumeros\bin\Debug\net7.0\OrdenamientoDeNumeros.exe
+C:\Users\Carlos-PC\Desktop\UNAD-1604-2023\PROGRAMACION\etapa4\213023_200_Etapa4_CarlosSoriano\OrdenamientoDeNumeros\bin\Debug\net7.0\OrdenamientoDeNumeros.deps.json
+C:\Users\Carlos-PC\Desktop\UNAD-1604-2023\PROGRAMACION\etapa4\213023_200_Etapa4_CarlosSoriano\OrdenamientoDeNumeros\bin\Debug\net7.0\OrdenamientoDeNumeros.runtimeconfig.json
+C:\Users\Carlos-PC\Desktop\UNAD-1604-2023\PROGRAMACION\etapa4\213023_200_Etapa4_CarlosSoriano\OrdenamientoDeNumeros\bin\Debug\net7.0\OrdenamientoDeNumeros.dll
+C:\Users\Carlos-PC\Desktop\UNAD-1604-2023\PROGRAMACION\etapa4\213023_200_Etapa4_CarlosSoriano\OrdenamientoDeNumeros\bin\Debug\net7.0\OrdenamientoDeNumeros.pdb
+C:\Users\Carlos-PC\Desktop\UNAD-1604-2023\PROGRAMACION\etapa4\213023_200_Etapa4_CarlosSoriano\OrdenamientoDeNumeros\obj\Debug\net7.0\OrdenamientoDeNumeros.csproj.AssemblyReference.cache
+C:\Users\Carlos-PC\Desktop\UNAD-1604-2023\PROGRAMACION\etapa4\213023_200_Etapa4_CarlosSoriano\OrdenamientoDeNumeros\obj\Debug\net7.0\OrdenamientoDeNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos-PC\Desktop\UNAD-1604-2023\PROGRAMACION\etapa4\213023_200_Etapa4_CarlosSoriano\OrdenamientoDeNumeros\obj\Debug\net7.0\OrdenamientoDeNumeros.AssemblyInfoInputs.cache
+C:\Users\Carlos-PC\Desktop\UNAD-1604-2023\PROGRAMACION\etapa4\213023_200_Etapa4_CarlosSoriano\OrdenamientoDeNumeros\obj\Debug\net7.0\OrdenamientoDeNumeros.AssemblyInfo.cs
+C:\Users\Carlos-PC\Desktop\UNAD-1604-2023\PROGRAMACION\etapa4\213023_200_Etapa4_CarlosSoriano\OrdenamientoDeNumeros\obj\Debug\net7.0\OrdenamientoDeNumeros.csproj.CoreCompileInputs.cache
+C:\Users\Carlos-PC\Desktop\UNAD-1604-2023\PROGRAMACION\etapa4\213023_200_Etapa4_CarlosSoriano\OrdenamientoDeNumeros\obj\Debug\net7.0\OrdenamientoDeNumeros.dll
+C:\Users\Carlos-PC\Desktop\UNAD-1604-2023\PROGRAMACION\etapa4\213023_200_Etapa4_CarlosSoriano\OrdenamientoDeNumeros\obj\Debug\net7.0\refint\OrdenamientoDeNumeros.dll
+C:\Users\Carlos-PC\Desktop\UNAD-1604-2023\PROGRAMACION\etapa4\213023_200_Etapa4_CarlosSoriano\OrdenamientoDeNumeros\obj\Debug\net7.0\OrdenamientoDeNumeros.pdb
+C:\Users\Carlos-PC\Desktop\UNAD-1604-2023\PROGRAMACION\etapa4\213023_200_Etapa4_CarlosSoriano\OrdenamientoDeNumeros\obj\Debug\net7.0\OrdenamientoDeNumeros.genruntimeconfig.cache
+C:\Users\Carlos-PC\Desktop\UNAD-1604-2023\PROGRAMACION\etapa4\213023_200_Etapa4_CarlosSoriano\OrdenamientoDeNumeros\obj\Debug\net7.0\ref\OrdenamientoDeNumeros.dll
