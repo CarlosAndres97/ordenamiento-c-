@@ -1,6 +1,6 @@
 ﻿/*
     Estudiante: Carlos Andres Soriano Gonzalez
-    Codigo: 1073608522
+    Codigo: 
     Grupo: 200
     Curso: Programacion
     Programa: Ingenieria de Sistemas
